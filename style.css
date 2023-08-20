@@ -1,0 +1,22 @@
+div.item {
+    veftical-align: top;
+    display: inline-block;
+    text-align: left;
+
+}
+.caption {
+    display: block;
+    color: aliceblue;
+    margin-left: 10px;
+}
+
+.desc-me {
+    display: flex;
+    gap: 12rem;
+}
+
+.strength-weakness {
+    display: flex;
+    gap: 10rem;
+    color: aliceblue;
+}
